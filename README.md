@@ -16,8 +16,10 @@ A company based in Kenya imports raw materials from the United States and has be
 ## Data
 
 The Central bank of kenya is the regulatory authority responsible for issuing and regulating the KES currency. They also provide information on the USD/KES exchange rates and other financial data relevant to Kenya's economy. The data we are using on this project is available on their website.
-The data files provide the daily exchange rate both buy and sell. 
-"buy" refers to the rate at which commercial banks and other financial institutions are willing to buy US dollars in exchange for Kenyan shillings, while "sell" refers to the rate at which they are willing to sell US dollars to acquire Kenyan shillings.
+
+> The data files provide the daily exchange rate both buy and sell. 
+>* "buy" refers to the rate at which commercial banks and other financial institutions are willing to buy US dollars in exchange for Kenyan shillings
+>* "sell" refers to the rate at which they are willing to sell US dollars to acquire Kenyan shillings.
 
 ## Methods
 
