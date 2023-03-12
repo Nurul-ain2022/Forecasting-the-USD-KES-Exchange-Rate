@@ -8,8 +8,7 @@
 
 ## Overview
 
-This project analyzes the historical data of the exchange rate between USD and KES from 2003 till today, we can build a predictive model to estimate the exchange rate in the future. Our approach will be to use a time series forecasting technique such as ARIMA (AutoRegressive Integrated Moving Average) or LSTM (Long Short-Term Memory) neural networks.
-
+This project analyzes the historical data of the exchange rate between USD and KES from 2003 till today, we can build a predictive model to estimate the exchange rate in the future.
 ## Business Problem
 
 A company based in Kenya imports raw materials from the United States and has been affected by the fluctuation of the exchange rate between the USD and KES. The company wants to forecast the exchange rate between USD and KES for the next few years to better plan their budget and manage their imports.
@@ -22,4 +21,4 @@ The data files provide the daily exchange rate both buy and sell.
 
 ## Methods
 
-Using historical data of the exchange rate between USD and KES from 2003 till today, we can build a predictive model to estimate the exchange rate in the future. A possible approach could be to use a time series forecasting technique such as ARIMA (AutoRegressive Integrated Moving Average) or LSTM (Long Short-Term Memory) neural networks.
+Our approach to building a predictive model will be to use a time series forecasting technique such as ARIMA (AutoRegressive Integrated Moving Average) or LSTM (Long Short-Term Memory) neural networks.
